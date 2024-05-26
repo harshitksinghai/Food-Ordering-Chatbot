@@ -1,9 +1,9 @@
-For client side:
-cd client
-npm run dev
+### For client side:
+cd client  
+npm run dev  
 
-For server side:
-cd server
-uvicorn main:app --reload
+### For server side:
+cd server  
+uvicorn main:app --reload  
 
-(used ngrok to get https for DialogFlow Webhook Fulfillment)
+###### (used ngrok to get https for DialogFlow Webhook Fulfillment)
